@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "0218726785e6a07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6405dda225b40e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "28-08-2022/Kubuntu.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "896d003176c9607f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59cbdffc3010d997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55486301ffe790d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "edfb12fbfdb7f19b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0d7a0c4898578d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dda191b2f6939bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b603d610778c8612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e53a5c8d108cb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "28-08-2022/Kubuntu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f098b8cf1d1e618",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "28-08-2022/Kubuntu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef6a51c4708cc451",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd0ee1f0e66aee42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "28-08-2022/Kubuntu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c6405dda225b40e3",
+  "lastOpenFiles": [
+    "28-08-2022/PyCharm.md",
+    "README.md"
+  ]
+}
