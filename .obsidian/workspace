@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/Trees/Btree.md",
+            "file": "05-09-2022/PIP.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Trees/Btree.md",
+                "file": "05-09-2022/PIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/Trees/Btree.md",
+                "file": "05-09-2022/PIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Trees/Btree.md"
+                "file": "05-09-2022/PIP.md"
               }
             }
           }
@@ -130,11 +130,15 @@
   },
   "active": "c6405dda225b40e3",
   "lastOpenFiles": [
-    "Problems/Dicts.md",
-    "Problems/Trees/Btree.md",
-    "Problems/Lists.md",
+    "05-09-2022/Requirements.md",
+    "05-09-2022/Venv.md",
+    "05-09-2022/Pasted image 20220905205034.png",
+    "05-09-2022/PIP.md",
+    "Problems/Architecture/Venv.md",
+    "Problems/Untitled.md",
     "28-08-2022/PyCharm.md",
     "28-08-2022/Kubuntu.md",
-    "README.md"
+    "Problems/Trees/Btree.md",
+    "Problems/Dicts.md"
   ]
 }
