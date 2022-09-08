@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05-09-2022/PIP.md",
+            "file": "Problems/Architecture/Venv.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-09-2022/PIP.md",
+                "file": "Problems/Architecture/Venv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-09-2022/PIP.md",
+                "file": "Problems/Architecture/Venv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-09-2022/PIP.md"
+                "file": "Problems/Architecture/Venv.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "c6405dda225b40e3",
   "lastOpenFiles": [
-    "05-09-2022/Requirements.md",
-    "05-09-2022/Venv.md",
-    "05-09-2022/Pasted image 20220905205034.png",
-    "05-09-2022/PIP.md",
+    "Problems/Strings.md",
+    "Problems/Lists.md",
+    "Problems/Dicts.md",
+    "3. 08-09-2022/Complexity Of Algorithms.md",
+    "2. 05-09-2022/PIP.md",
+    "2. 05-09-2022/Requirements.md",
+    "2. 05-09-2022/Venv.md",
+    "2. 05-09-2022/Pasted image 20220905205034.png",
     "Problems/Architecture/Venv.md",
-    "Problems/Untitled.md",
-    "28-08-2022/PyCharm.md",
-    "28-08-2022/Kubuntu.md",
-    "Problems/Trees/Btree.md",
-    "Problems/Dicts.md"
+    "1. 28-08-2022/PyCharm.md"
   ]
 }
